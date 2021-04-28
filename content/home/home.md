@@ -8,7 +8,7 @@ design:
   columns: "2"
   background:
     text_color_light: false
-    image_darken: 0.3
+    image_darken: 0
     color: rgba(28, 222, 223, 0)
     image: /assets/media/hero2.jpg
 ---
