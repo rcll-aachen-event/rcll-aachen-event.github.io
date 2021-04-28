@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Arenas
+    url: '#arenas'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Teams
+    url: '#teams'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Rules
+    url: '#rules'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Schedule & Results
+    url: '#schedule'
     weight: 50
   - name: Contact
     url: '#contact'
