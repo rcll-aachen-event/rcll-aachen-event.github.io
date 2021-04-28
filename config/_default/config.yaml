@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: GORE 2021 - GermanOpen Replacement Event 2021 # Website name
+title: GORE 2021 # Website name
 baseurl: 'https://gore2021.netlify.app/' # Website URL
-copyright: 'Arne Moos and Patrick Göttsch 2021' # Footer text, e.g. '© {year} Me'
+copyright: 'Arne Moos and Patrick Göttsch, 2021' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
