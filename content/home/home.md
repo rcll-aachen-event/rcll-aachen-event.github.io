@@ -2,7 +2,7 @@
 widget: pages
 widget_id: home
 headless: true
-weight: 1
+weight: 10
 active: true
 design:
   columns: "1"
