@@ -2,7 +2,7 @@
 widget: pages
 widget_id: arenas
 headless: true
-weight: 10
+weight: 30
 title: Hosting Arenas
 active: true
 design:
