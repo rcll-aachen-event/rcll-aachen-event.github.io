@@ -13,7 +13,7 @@ design:
 ---
 The participating teams play in the first place a group phase in one of the arenas and afterwards there will be finals played on half in each arena.
 
-Teams assigned to **Arena Dortmun**: NaoDevils, Bembelbots, HTWK Robots
+Teams assigned to **Arena Dortmund**: NaoDevils, Bembelbots, HTWK Robots
 
 Teams assigned to **Arena Bremen**: B-Human, BerlinUnited, HULKs, R-ZWEI-KICKERS
 
