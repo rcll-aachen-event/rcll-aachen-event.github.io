@@ -12,5 +12,7 @@ design:
     image_darken: 0
 ---
 Visitors and team members can view the live streams from both arenas on YouTube.
+
 Link for **Arena Bremen**: [link]
+
 Link for **Arena Dortmund**: [link]
