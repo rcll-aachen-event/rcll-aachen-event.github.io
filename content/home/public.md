@@ -11,8 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-Visitors and team members can view the live streams from both arenas on YouTube.
-
-Link for **Arena Bremen**: [link]
-
-Link for **Arena Dortmund**: [link]
+Visitors and team members can view the live streams from both arenas on the new RoboCup SPL YouTube channel: [here](https://www.youtube.com/channel/UCmJWzHyCuBs8zaQcJfw077g)
