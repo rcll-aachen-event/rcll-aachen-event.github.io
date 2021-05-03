@@ -2,7 +2,7 @@
 widget: pages
 widget_id: public
 headless: true
-weight: 15
+weight: 20
 title: Public Viewing
 active: true
 design:
