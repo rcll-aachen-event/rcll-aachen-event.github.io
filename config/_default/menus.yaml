@@ -16,6 +16,9 @@ main:
   - name: Teams
     url: '#teams'
     weight: 30
+  - name: 'Communication'
+    url: '#communication'
+    weight: 35
   - name: Rules
     url: '#rules'
     weight: 40
