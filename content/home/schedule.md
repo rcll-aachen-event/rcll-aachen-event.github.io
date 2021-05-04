@@ -28,10 +28,10 @@ In total, we are going to play **four** rounds with each three games and one tea
 ### Round 1
 | Game | Home | Away |
 |:--: | :---: | :---: |
-| 1 | B-Human | HTWK Robots |
-| 2 | NaoDevils | BerlinUnited |
-| 3 | HULKs | Bembelbots |
-| | Free card | R-ZWEI-KICKERS |
+| 1 | HTWK Robots | NaoDevils |
+| 2 | BerlinUnited | HULKs  |
+| 3 | Bembelbots | R-ZWEI-KICKERS |
+| | Free card | B-Human |
 
 ### Round 2
 | Game | Home | Away |
@@ -60,8 +60,8 @@ In total, we are going to play **four** rounds with each three games and one tea
 
 ### Game table
 
-| Team | Initial Score | Game Score | BHZ | fBHZ | Final Place | 1st R | 2nd R | 3rd R | 4th R |
-| --- | :---: |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Team | Initial Score | Game Score | Goals | Final Place | 1st R | 2nd R | 3rd R | 4th R |
+| --- | :---: |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | B-Human | 8 |
 | Bembelbots | 33 |
 | BerlinUnited | 26 |
@@ -77,7 +77,7 @@ Schedule for **Arena Dortmund (D)**:
 
 | Game ID | Home         | Away           | Date       | Preparation time | Game start | Result |
 | :--: | ------------ | -------------- | ---------- | ---------------- | ---------- | ------ |
-| 1 | B-Human      | HTWK Robots | 2021-05-07 | 09:00 - 11:00    | 11:00      |        |
+| 1 | BerlinUnited | HULKs | 2021-05-07 | 09:00 - 11:00    | 11:00      |        |
 | 4 | | | 2021-05-07 | 17:00 - 19:00    | 19:00      |        |
 | 7 | | | 2021-05-08 | 12:00 - 14:00    | 14:00      |        |
 | 9 |       | | 2021-05-08 | 15:00 - 17:00    | 17:00      |        |
@@ -88,8 +88,8 @@ Schedule for **Arena Bremen (B)**:
 
 | Game ID | Home         | Away        | Date       | Preparation time | Game start | Result |
 | :---:| ------------ | ----------- | ---------- | ---------------- | ---------- | ------ |
-| 2 | NaoDevils    | BerlinUnited | 2021-05-07 | 09:00 - 11:00    | 11:45      |        |
-| 3 | HULKS | Bembelbots | 2021-05-07 | 13:00 - 15:00    | 15:00      |        |
+| 2 | HTWK Robots | NaoDevils | 2021-05-07 | 09:00 - 11:00    | 11:45      |        |
+| 3 | Bembelbots | R-ZWEI-KICKERS | 2021-05-07 | 13:00 - 15:00    | 15:00      |        |
 | 5 | |  | 2021-05-07 | 17:00 - 19:00    | 19:45      |        |
 | 6 |  | | 2021-05-08 | 09:00 - 11:00    | 11:00      |        |
 | 8 || | 2021-05-08 | 15:00 - 17:00    | 17:45      |        |
