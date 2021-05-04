@@ -37,7 +37,15 @@ In total, we are going to play **four** rounds with each three games and one tea
 
 ### Game table
 
-| Team | Score | Games | BHZ | fBHZ | 
+| Team | Initial Score | Game Score | BHZ | fBHZ | Final Place | 1st R | 2nd R | 3rd R | 4th R |
+| --- | :---: |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| B-Human | 8 |
+| Bembelbots | 33 |
+| BerlinUnited | 26 |
+| HTWK Robots | 12 |
+| HULKs | 29 |
+| NaoDevils | 17 |
+| R-ZWEI-KICKERS | 42|
 
 
 ### Arena Schedules
