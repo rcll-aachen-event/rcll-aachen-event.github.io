@@ -11,44 +11,66 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-The participating teams play in the first place a group phase in one of the arenas and afterwards there will be finals played on half in each arena.
+To maximize the number of games for each team and given that only a limited number of games can be played in both arenas. We are scheduling the games utilizing a modified version of the [Swiss-System Tournament](https://en.wikipedia.org/wiki/Swiss-system_tournament). As bases for the initial placement of the teams, we used the results of the GermanOpen from 2014 till 2019. This score results gives an ordered list of teams.
 
-Teams assigned to **Arena Bremen**: NaoDevils, Bembelbots, HTWK Robots
+| Team           | 2019 GO | 2018 GO | 2017 GO | 2016 GO | 2015 GO | 2014 GO | Score |
+|----------------|---------|---------|---------|---------|---------|---------|------:|
+| B-Human        | 1       | 3       | 1       | 1       | 1       | 1       | 8     |
+| HTWK Robots    | 2       | 1       | 2       | 2       | 2       | 3       | 12    |
+| NaoDevils      | 4       | 2       | 3       | 3       | 3       | 2       | 17    |
+| Berlin United  | 4       | 5       | 4       | 4       | 4       | 5       | 26    |
+| HULKs          | 3       | 4       | 5       | 5       | 6       | 6       | 29    |
+| Bembelbots     | 6       | 6       | 6       | 6       | 5       | 4       | 33    |
+| R-ZWEI-KICKERS | 7       | 7       | 7       | 7       | 7       | 7       | 42    |
 
-Teams assigned to **Arena Dortmund**: B-Human, BerlinUnited, HULKs, R-ZWEI-KICKERS
+In total, we are going to play **four** rounds with each three games and one team get a free card. The first round will be played paired from top till down, with the following pairs. After each round new pairs will be set according to the rules of the Swiss-System tournament rules.
+
+### Round 1
+| Game | Home | Away |
+|:--: | :---: | :---: |
+| 1 | B-Human | HTWK Robots |
+| 2 | NaoDevils | BerlinUnited |
+| 3 | HULKs | Bembelbots |
+| | Free card | R-ZWEI-KICKERS |
+
+### Round 2
+
+### Game table
+
+| Team | Score | Games | BHZ | fBHZ | 
+
+
+### Arena Schedules
 
 Schedule for **Arena Dortmund (D)**:
 
-| Home         | Away           | Date       | Preparation time | Game start | Result |
-| ------------ | -------------- | ---------- | ---------------- | ---------- | ------ |
-| B-Human      | HULKs          | 2021-05-06 | 18:00 - 20:00    | 20:00      |        |
-| BerlinUnited | R-ZWEI-KICKERS | 2021-05-07 | 09:00 - 11:00    | 11:00      |        |
-| B-Human      | BerlinUnited   | 2021-05-07 | 15:00 - 17:00    | 17:00      |        |
-| HULKs        | R-ZWEI-KICKERS | 2021-05-08 | 09:00 - 11:00    | 11:00      |        |
-| B-Human      | R-ZWEI-KICKERS | 2021-05-08 | 15:00 - 17:00    | 17:00      |        |
-| **Finals**   |                |            |                  |            |        |
-| D1           | B1             | 2021-05-09 | 09:00 - 11:00    | 11:00      |        |
-| D2           | B2             | 2021-05-09 | 13:00 - 15:00    | 15:00      |        |
+| Game ID | Home         | Away           | Date       | Preparation time | Game start | Result |
+| :--: | ------------ | -------------- | ---------- | ---------------- | ---------- | ------ |
+| 1 | B-Human      | HTWK Robots | 2021-05-07 | 09:00 - 11:00    | 11:00      |        |
+| 4 | | | 2021-05-07 | 17:00 - 19:00    | 19:00      |        |
+| 7 | | | 2021-05-08 | 12:00 - 14:00    | 14:00      |        |
+| 9 |       | | 2021-05-08 | 15:00 - 17:00    | 17:00      |        |
+| 10|           |             | 2021-05-09 | 09:00 - 11:00    | 11:00      |        |
+| 11|            |              | 2021-05-09 | 13:00 - 15:00    | 15:00      |        |
 
 Schedule for **Arena Bremen (B)**:
 
-| Home         | Away        | Date       | Preparation time | Game start | Result |
-| ------------ | ----------- | ---------- | ---------------- | ---------- | ------ |
-|              |             | 2021-05-06 |                  |            |        |
-| NaoDevils    | HTWK Robots | 2021-05-07 | 09:00 - 11:00    | 11:45      |        |
-| Bembelbots   | HTWK Robots | 2021-05-07 | 15:00 - 17:00    | 17:45      |        |
-| NaoDevils    | Bembelbots  | 2021-05-08 | 09:00 - 11:00    | 11:45      |        |
-| BerlinUnited | HULKs       | 2021-05-08 | 15:00 - 17:00    | 17:45      |        |
-| **Finals**   |             |            |                  |            |        |
-| B2           | D2          | 2021-05-09 | 09:00 - 11:00    | 11:30      |        |
-| B1           | B1          | 2021-05-09 | 13:00 - 15:00    | 15:30      |        |
+| Game ID | Home         | Away        | Date       | Preparation time | Game start | Result |
+| :---:| ------------ | ----------- | ---------- | ---------------- | ---------- | ------ |
+| |              |             | 2021-05-06 |                  |            |        |
+| 2 | NaoDevils    | BerlinUnited | 2021-05-07 | 09:00 - 11:00    | 11:45      |        |
+| 3 | HULKS | Bembelbots | 2021-05-07 | 13:00 - 15:00    | 15:00      |        |
+| 5 | |  | 2021-05-07 | 17:00 - 19:00    | 19:45      |        |
+| 6 |  | | 2021-05-08 | 09:00 - 11:00    | 11:00      |        |
+| 8 || | 2021-05-08 | 15:00 - 17:00    | 17:45      |        |
+| 12| | | 2021-05-09 | 09:00 - 11:00    | 11:30      |        |
 
 ### Other appointments:
 
 * 2021-05-03 20:00 - Team leader meeting
 * 2021-05-06 10:00 - Opening Ceremony
 * 2021-05-06 15:00 - Rules & Referring
-* 2021-05-06 21:00 - Team leader meeting
-* 2021-05-07 20:00 - Team leader meeting
+* 2021-05-06 18:00 - Team leader meeting
+* 2021-05-07 20:45 - Team leader meeting
 * 2021-05-08 20:00 - Team leader meeting
 * 2021-05-09 16:00 - Closing Ceremony
