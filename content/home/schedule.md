@@ -34,6 +34,29 @@ In total, we are going to play **four** rounds with each three games and one tea
 | | Free card | R-ZWEI-KICKERS |
 
 ### Round 2
+| Game | Home | Away |
+|:--: | :---: | :---: |
+| 4 | |  |
+| 5 | | |
+| 6 | | |
+| | Free card |  |
+
+### Round 3
+| Game | Home | Away |
+|:--: | :---: | :---: |
+| 7 | |  |
+| 8 | | |
+| 9 | | |
+| | Free card |  |
+
+### Round 4
+| Game | Home | Away |
+|:--: | :---: | :---: |
+| 10 | |  |
+| 11 | | |
+| 12 | | |
+| | Free card |  |
+
 
 ### Game table
 
