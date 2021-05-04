@@ -88,7 +88,6 @@ Schedule for **Arena Bremen (B)**:
 
 | Game ID | Home         | Away        | Date       | Preparation time | Game start | Result |
 | :---:| ------------ | ----------- | ---------- | ---------------- | ---------- | ------ |
-| |              |             | 2021-05-06 |                  |            |        |
 | 2 | NaoDevils    | BerlinUnited | 2021-05-07 | 09:00 - 11:00    | 11:45      |        |
 | 3 | HULKS | Bembelbots | 2021-05-07 | 13:00 - 15:00    | 15:00      |        |
 | 5 | |  | 2021-05-07 | 17:00 - 19:00    | 19:45      |        |
