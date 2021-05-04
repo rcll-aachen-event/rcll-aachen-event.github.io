@@ -27,7 +27,9 @@ As bases for the initial placement of the teams, we use the results of the Germa
 
 In total, we are going to play **four** rounds with each three games and one team get a free card. 
 
-Each round the first team gets the free card and is scored with 1 point. The other pairings will be 2 vs 3, 4 vs 5 and 6 vs 7. Two points are awarded for the match winner, one point for a tie and zero points otherwise. For teams with the same score, at the beginning of each round, the direct comparison is used first and otherwise a ranking based on the initial scoring is taken. 
+Each round the first team gets the free card and is scored with 1 point. The other pairings will be 2 vs 3, 4 vs 5 and 6 vs 7. Two points are awarded for the match winner, one point for a tie and zero points otherwise. 
+
+After the initial ranking the following rankings for each round are based on the accumulated points from the matches. For teams with the same score, at the beginning of each round, the direct comparison is used first and otherwise a ranking based on the initial scoring is taken. 
 
 ### Round 1
 
