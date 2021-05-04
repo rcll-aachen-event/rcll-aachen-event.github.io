@@ -25,7 +25,7 @@ As bases for the initial placement of the teams, we use the results of the Germa
 | Bembelbots     | 6       | 6       | 6       | 6       | 5       | 4       | 33    |
 | R-ZWEI-KICKERS | 7       | 7       | 7       | 7       | 7       | 7       | 42    |
 
-In total, we are going to play **four** rounds with each three games and one team get a free card. 
+In total, we are going to play **four** rounds with each three games and one team get a free card. Each team can only get the free card once and there are no duplicate matches.
 
 Each round the first team gets the free card and is scored with 1 point. The other pairings will be 2 vs 3, 4 vs 5 and 6 vs 7. Two points are awarded for the match winner, one point for a tie and zero points otherwise. 
 
