@@ -13,7 +13,9 @@ design:
 ---
 Visitors and team members can view the live streams from both arenas on the new RoboCup SPL YouTube channel: [here](https://www.youtube.com/channel/UCmJWzHyCuBs8zaQcJfw077g)
 
-Live stream takes place during the whole day and all times in **UTC+2**. You can see teams testing their robots, see how they get setup and also some test games and normal games. If you want to watch the competition games, here is a list when the competition games start:
+Live stream takes place during the whole day and all times in **UTC+2**. You can see teams testing their robots, see how they get setup and also some test games and normal games. If you want to watch the competition games, here is a list when the competition games start.
+
+Remark: All dates and Times are **UTC+2**
 
 | Arena    | Game ID | Home         | Away           | Date            | Start |
 | -------- | ------- | ------------ | -------------- | --------------- | ----- |
