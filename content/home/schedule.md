@@ -33,6 +33,8 @@ After the initial ranking the following rankings for each round are based on the
 
 Each team can only get the free card once and there are no duplicate matches. Otherwise the ranking is adapted accordingly to the next best candidate.
 
+Remark: All dates and Times are UTC+2
+
 ### Round 1
 
 | Game | Home         | Away           |
