@@ -13,10 +13,10 @@ design:
 ---
 Visitors and team members can view the live streams from both arenas on the new RoboCup SPL YouTube channel: [here](https://www.youtube.com/channel/UCmJWzHyCuBs8zaQcJfw077g)
 
-Live stream takes place during the whole day. You can see teams testing their robots, see how they get setup and also some test games and normal games. If you want to watch the competition games, here is a list when the competition games start:
+Live stream takes place during the whole day and all times in UTC+2. You can see teams testing their robots, see how they get setup and also some test games and normal games. If you want to watch the competition games, here is a list when the competition games start:
 
 | Arena    | Game ID | Home         | Away           | Date            | Start |
-|----------|---------|--------------|----------------|-----------------|-------|
+| -------- | ------- | ------------ | -------------- | --------------- | ----- |
 | Dortmund | 1       | BerlinUnited | HULKs          | 2021-05-07 (Fr) | 11:00 |
 | Bremen   | 2       | HTWK Robots  | NaoDevils      | 2021-05-07 (Fr) | 11:45 |
 | Bremen   | 3       | Bembelbots   | R-ZWEI-KICKERS | 2021-05-07 (Fr) | 15:00 |
