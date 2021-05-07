@@ -85,7 +85,7 @@ Remark: All dates and Times are UTC+2
 
 ### Arena Schedules
 
-Schedule for **Arena Dortmund (D)**:
+Schedule for **Arena Dortmund**:
 
 | Game ID | Home         | Away      | Date            | Preparation time | Game start | Result |
 |---------|--------------|-----------|-----------------|------------------|------------|--------|
@@ -96,7 +96,8 @@ Schedule for **Arena Dortmund (D)**:
 | 10      |              |           | 2021-05-09 (Su) | 09:00 - 11:00    | 11:00      |        |
 | 12      |              |           | 2021-05-09 (Su) | 13:00 - 15:00    | 15:00      |        |
 
-Schedule for **Arena Bremen (B)**:
+Schedule for **Arena Bremen**:
+
 | Game ID | Home         | Away           | Date            | Preparation time | Game start | Result |
 |---------|--------------|----------------|-----------------|------------------|------------|--------|
 | 2       | HTWK Robots  | NaoDevils      | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:45      | 4:2    |
