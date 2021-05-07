@@ -76,12 +76,12 @@ Remark: All dates and Times are UTC+2
 | Team           | Initial Score | Game Score | Goals | Final Place | 1st R | 2nd R | 3rd R | 4th R |
 | -------------- | ------------- | ---------- | ----- | ----------- | ----- | ----- | ----- | ----- |
 | B-Human        | 8             |            |       |             | Free Card      |       |       |       |
-| Bembelbots     | 33            |            |       |             |       |       |       |       |
+| Bembelbots     | 33            |            |       |             | 3:0      |       |       |       |
 | BerlinUnited   | 26            |            |       |             | 1:4      |       |       |       |
 | HTWK Robots    | 12            |            |       |             |  4:2     |       |       |       |
 | HULKs          | 29            |            |       |             | 4:1      |       |       |       |
 | NaoDevils      | 17            |            |       |             | 2:4      |       |       |       |
-| R-ZWEI-KICKERS | 42            |            |       |             |       |       |       |       |
+| R-ZWEI-KICKERS | 42            |            |       |             | 0:3      |       |       |       |
 
 ### Arena Schedules
 
@@ -101,7 +101,7 @@ Schedule for **Arena Bremen (B)**:
 | Game ID | Home        | Away           | Date            | Preparation time | Game start | Result |
 | ------- | ----------- | -------------- | --------------- | ---------------- | ---------- | ------ |
 | 2       | HTWK Robots | NaoDevils      | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:45      | 4:2       |
-| 3       | Bembelbots  | R-ZWEI-KICKERS | 2021-05-07 (Fr) | 13:00 - 15:00    | 15:00      |        |
+| 3       | Bembelbots  | R-ZWEI-KICKERS | 2021-05-07 (Fr) | 13:00 - 15:00    | 15:00      | 3:0     |
 | 4       |             |                | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:00      |        |
 | 6       |             |                | 2021-05-08 (Sa) | 09:00 - 11:00    | 11:00      |        |
 | 9       |             |                | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:45      |        |
