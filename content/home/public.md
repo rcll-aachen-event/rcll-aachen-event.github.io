@@ -18,13 +18,13 @@ Live stream takes place during the whole day and all times in **UTC+2**. You can
 Remark: All dates and Times are **UTC+2**
 
 | Arena    | Game ID | Home         | Away           | Date            | Start |
-| -------- | ------- | ------------ | -------------- | --------------- | ----- |
+|----------|---------|--------------|----------------|-----------------|-------|
 | Dortmund | 1       | BerlinUnited | HULKs          | 2021-05-07 (Fr) | 11:00 |
 | Bremen   | 2       | HTWK Robots  | NaoDevils      | 2021-05-07 (Fr) | 11:45 |
 | Bremen   | 3       | Bembelbots   | R-ZWEI-KICKERS | 2021-05-07 (Fr) | 15:00 |
-| Bremen   | 4       |              |                | 2021-05-07 (Fr) | 19:00 |
-| Dortmund | 5       |              |                | 2021-05-07 (Fr) | 19:45 |
-| Bremen   | 6       |              |                | 2021-05-08 (Sa) | 11:00 |
+| Bremen   | 4       | HULKs        | Bembelbots     | 2021-05-07 (Fr) | 19:00 |
+| Dortmund | 5       | B-Human      | NaoDevils      | 2021-05-07 (Fr) | 19:45 |
+| Bremen   | 6       | BerlinUnited | R-ZWEI-KICKERS | 2021-05-08 (Sa) | 11:00 |
 | Dortmund | 7       |              |                | 2021-05-08 (Sa) | 14:00 |
 | Dortmund | 8       |              |                | 2021-05-08 (Sa) | 17:00 |
 | Bremen   | 9       |              |                | 2021-05-08 (Sa) | 17:45 |
