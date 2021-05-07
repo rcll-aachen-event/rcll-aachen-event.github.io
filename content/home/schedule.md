@@ -46,12 +46,12 @@ Remark: All dates and Times are UTC+2
 
 ### Round 2
 
-| Game | Home        | Away |
-| ---- | ----------- | ---- |
-| 4    |             |      |
-| 5    |             |      |
-| 6    |             |      |
-|      | *Free card* |      |
+| Game | Home         | Away           |
+|------|--------------|----------------|
+| 4    | HULKs        | Bembelbots     |
+| 5    | B-Human      | NaoDevils      |
+| 6    | BerlinUnited | R-ZWEI-KICKERS |
+|      | Free card    | HTWK Robots    |
 
 ### Round 3
 
@@ -73,39 +73,39 @@ Remark: All dates and Times are UTC+2
 
 ### Game table
 
-| Team           | Initial Score | Game Score | Goals | Final Place | 1st R | 2nd R | 3rd R | 4th R |
-| -------------- | ------------- | ---------- | ----- | ----------- | ----- | ----- | ----- | ----- |
-| B-Human        | 8             |            |       |             | Free Card      |       |       |       |
-| Bembelbots     | 33            |            |       |             | 3:0      |       |       |       |
-| BerlinUnited   | 26            |            |       |             | 1:4      |       |       |       |
-| HTWK Robots    | 12            |            |       |             |  4:2     |       |       |       |
-| HULKs          | 29            |            |       |             | 4:1      |       |       |       |
-| NaoDevils      | 17            |            |       |             | 2:4      |       |       |       |
-| R-ZWEI-KICKERS | 42            |            |       |             | 0:3      |       |       |       |
+| Team           | Initial Score | Event Score | Goals | Final Place | 1st R     | 2nd R     | 3rd R | 4th R |
+|----------------|---------------|-------------|-------|-------------|-----------|-----------|-------|-------|
+| B-Human        | 8             | 1           | 0:0   |             | Free Card |           |       |       |
+| Bembelbots     | 33            | 2           | 3:0   |             | 3:0       |           |       |       |
+| BerlinUnited   | 26            | 0           | 1:4   |             | 1:4       |           |       |       |
+| HTWK Robots    | 12            | 2           | 4:2   |             | 4:2       | Free Card |       |       |
+| HULKs          | 29            | 2           | 4:1   |             | 4:1       |           |       |       |
+| NaoDevils      | 17            | 0           | 2:4   |             | 2:4       |           |       |       |
+| R-ZWEI-KICKERS | 42            | 0           | 0:3   |             | 0:3       |           |       |       |
 
 ### Arena Schedules
 
 Schedule for **Arena Dortmund (D)**:
 
-| Game ID | Home         | Away  | Date            | Preparation time | Game start | Result |
-| ------- | ------------ | ----- | --------------- | ---------------- | ---------- | ------ |
-| 1       | BerlinUnited | HULKs | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:00      |   1:4     |
-| 5       |              |       | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:45      |        |
-| 7       |              |       | 2021-05-08 (Sa) | 12:00 - 14:00    | 14:00      |        |
-| 8       |              |       | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:00      |        |
-| 10      |              |       | 2021-05-09 (Su) | 09:00 - 11:00    | 11:00      |        |
-| 12      |              |       | 2021-05-09 (Su) | 13:00 - 15:00    | 15:00      |        |
+| Game ID | Home         | Away      | Date            | Preparation time | Game start | Result |
+|---------|--------------|-----------|-----------------|------------------|------------|--------|
+| 1       | BerlinUnited | HULKs     | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:00      | 4:2    |
+| 5       | B-Human      | NaoDevils | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:45      |        |
+| 7       |              |           | 2021-05-08 (Sa) | 12:00 - 14:00    | 14:00      |        |
+| 8       |              |           | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:00      |        |
+| 10      |              |           | 2021-05-09 (Su) | 09:00 - 11:00    | 11:00      |        |
+| 12      |              |           | 2021-05-09 (Su) | 13:00 - 15:00    | 15:00      |        |
 
 Schedule for **Arena Bremen (B)**:
 
-| Game ID | Home        | Away           | Date            | Preparation time | Game start | Result |
-| ------- | ----------- | -------------- | --------------- | ---------------- | ---------- | ------ |
-| 2       | HTWK Robots | NaoDevils      | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:45      | 4:2       |
-| 3       | Bembelbots  | R-ZWEI-KICKERS | 2021-05-07 (Fr) | 13:00 - 15:00    | 15:00      | 3:0     |
-| 4       |             |                | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:00      |        |
-| 6       |             |                | 2021-05-08 (Sa) | 09:00 - 11:00    | 11:00      |        |
-| 9       |             |                | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:45      |        |
-| 11      |             |                | 2021-05-09 (Su) | 09:00 - 11:00    | 11:45      |        |
+| Game ID | Home         | Away           | Date            | Preparation time | Game start | Result |
+|---------|--------------|----------------|-----------------|------------------|------------|--------|
+| 2       | HTWK Robots  | NaoDevils      | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:45      | 1:4    |
+| 3       | Bembelbots   | R-ZWEI-KICKERS | 2021-05-07 (Fr) | 13:00 - 15:00    | 15:00      | 3:0    |
+| 4       | HULKs        | Bembelbots     | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:00      |        |
+| 6       | BerlinUnited | R-ZWEI-KICKERS | 2021-05-08 (Sa) | 09:00 - 11:00    | 11:00      |        |
+| 9       |              |                | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:45      |        |
+| 11      |              |                | 2021-05-09 (Su) | 09:00 - 11:00    | 11:45      |        |
 
 ### Other appointments:
 
