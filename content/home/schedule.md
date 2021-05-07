@@ -75,11 +75,11 @@ Remark: All dates and Times are UTC+2
 
 | Team           | Initial Score | Game Score | Goals | Final Place | 1st R | 2nd R | 3rd R | 4th R |
 | -------------- | ------------- | ---------- | ----- | ----------- | ----- | ----- | ----- | ----- |
-| B-Human        | 8             |            |       |             |       |       |       |       |
+| B-Human        | 8             |            |       |             | Free Card      |       |       |       |
 | Bembelbots     | 33            |            |       |             |       |       |       |       |
-| BerlinUnited   | 26            |            |       |             |       |       |       |       |
+| BerlinUnited   | 26            |            |       |             | 1:4      |       |       |       |
 | HTWK Robots    | 12            |            |       |             |       |       |       |       |
-| HULKs          | 29            |            |       |             |       |       |       |       |
+| HULKs          | 29            |            |       |             | 4:1      |       |       |       |
 | NaoDevils      | 17            |            |       |             |       |       |       |       |
 | R-ZWEI-KICKERS | 42            |            |       |             |       |       |       |       |
 
@@ -89,7 +89,7 @@ Schedule for **Arena Dortmund (D)**:
 
 | Game ID | Home         | Away  | Date            | Preparation time | Game start | Result |
 | ------- | ------------ | ----- | --------------- | ---------------- | ---------- | ------ |
-| 1       | BerlinUnited | HULKs | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:00      |        |
+| 1       | BerlinUnited | HULKs | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:00      |   1:4     |
 | 4       |              |       | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:00      |        |
 | 7       |              |       | 2021-05-08 (Sa) | 12:00 - 14:00    | 14:00      |        |
 | 8       |              |       | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:00      |        |
