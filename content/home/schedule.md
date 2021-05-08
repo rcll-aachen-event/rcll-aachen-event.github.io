@@ -55,12 +55,12 @@ Remark: All dates and Times are UTC+2
 
 ### Round 3
 
-| Game | Home        | Away |
-| ---- | ----------- | ---- |
-| 7    |             |      |
-| 8    |             |      |
-| 9    |             |      |
-|      | *Free card* |      |
+| Game | Home         | Away           |
+|------|--------------|----------------|
+| 7    | B-Human      | HTWK Robots    |
+| 8    | BerlinUnited | Bembelbots     |
+| 9    | NaoDevils    | R-ZWEI-KICKERS |
+|      | Free card    | HULKs          |
 
 ### Round 4
 
