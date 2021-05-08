@@ -28,8 +28,8 @@ Remark: All dates and Times are **UTC+2**
 | Dortmund | 7       | B-Human      | HTWK-Robots    | 2021-05-08 (Sa) | 14:00 |
 | Dortmund | 8       | BerlinUnited | Bembelbots     | 2021-05-08 (Sa) | 17:00 |
 | Bremen   | 9       | NaoDevils    | R-ZWEI-KICKERS | 2021-05-08 (Sa) | 17:45 |
-| Dortmund | 10      | NaoDevils    | BerlinUnited   | 2021-05-09 (Su) | 11:00 |
-| Bremen   | 11      | HTWK Robots  | R-ZWEI-KICKERS | 2021-05-09 (Su) | 11:45 |
+| Dortmund | 10      | HTWK Robots  | R-ZWEI-KICKERS | 2021-05-09 (Su) | 11:00 |
+| Bremen   | 11      | NaoDevils    | BerlinUnited   | 2021-05-09 (Su) | 11:45 |
 | Dortmund | 12      | B-Human      | HULKs          | 2021-05-09 (Su) | 15:00 |
 
 Due to the selected Swiss-System Tournament mode, four rounds with each three games will be played. The pairs will be determined after each round and are not know beforehand.
