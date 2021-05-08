@@ -73,39 +73,29 @@ Remark: All dates and Times are UTC+2
 
 ### Game table
 
-| Team           | Initial Score | Event Score | Goals | Final Place | 1st R     | 2nd R     | 3rd R | 4th R |
-|----------------|---------------|-------------|-------|-------------|-----------|-----------|-------|-------|
-| B-Human        | 8             | 1           | 0:0   |             | Free Card |  10:0         |       |       |
-| Bembelbots     | 33            | 2           | 3:0   |             | 3:0       |   0:1       |       |       |
-| BerlinUnited   | 26            | 0           | 1:4   |             | 1:4       |           |       |       |
-| HTWK Robots    | 12            | 2           | 4:2   |             | 4:2       | Free Card |       |       |
-| HULKs          | 29            | 2           | 4:1   |             | 4:1       |   1:0        |       |       |
-| NaoDevils      | 17            | 0           | 2:4   |             | 2:4       |   0:10        |       |       |
-| R-ZWEI-KICKERS | 42            | 0           | 0:3   |             | 0:3       |           |       |       |
+| Team           | Initial Score | Event Score | Goals | Final Place | 1st R     | 2nd R     | 3rd R     | 4th R |
+|----------------|---------------|-------------|-------|-------------|-----------|-----------|-----------|-------|
+| B-Human        | 8             | 3           | 10:0  |             | Free Card | 10:0      |           |       |
+| Bembelbots     | 33            | 2           | 3:1   |             | 3:0       | 0:1       |           |       |
+| BerlinUnited   | 26            | 2           | 4:4   |             | 1:4       | 3:0       |           |       |
+| HTWK Robots    | 12            | 3           | 4:2   |             | 4:2       | Free Card |           |       |
+| HULKs          | 29            | 4           | 5:1   |             | 4:1       | 1:0       | Free Card |       |
+| NaoDevils      | 17            | 0           | 2:14  |             | 2:4       | 0:10      |           |       |
+| R-ZWEI-KICKERS | 42            | 0           | 0:6   |             | 0:3       | 0:3       |           |       |
 
 ### Arena Schedules
 
 Schedule for **Arena Dortmund**:
 
-| Game ID | Home         | Away      | Date            | Preparation time | Game start | Result |
-|---------|--------------|-----------|-----------------|------------------|------------|--------|
-| 1       | BerlinUnited | HULKs     | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:00      | 1:4    |
-| 5       | B-Human      | NaoDevils | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:45      |  10:0      |
-| 7       |              |           | 2021-05-08 (Sa) | 12:00 - 14:00    | 14:00      |        |
-| 8       |              |           | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:00      |        |
-| 10      |              |           | 2021-05-09 (Su) | 09:00 - 11:00    | 11:00      |        |
-| 12      |              |           | 2021-05-09 (Su) | 13:00 - 15:00    | 15:00      |        |
-
-Schedule for **Arena Bremen**:
-
 | Game ID | Home         | Away           | Date            | Preparation time | Game start | Result |
 |---------|--------------|----------------|-----------------|------------------|------------|--------|
 | 2       | HTWK Robots  | NaoDevils      | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:45      | 4:2    |
 | 3       | Bembelbots   | R-ZWEI-KICKERS | 2021-05-07 (Fr) | 13:00 - 15:00    | 15:00      | 3:0    |
-| 4       | HULKs        | Bembelbots     | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:00      |  1:0      |
-| 6       | BerlinUnited | R-ZWEI-KICKERS | 2021-05-08 (Sa) | 09:00 - 11:00    | 11:00      |        |
-| 9       |              |                | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:45      |        |
+| 4       | HULKs        | Bembelbots     | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:00      | 1:0    |
+| 6       | BerlinUnited | R-ZWEI-KICKERS | 2021-05-08 (Sa) | 09:00 - 11:00    | 11:00      | 3:0    |
+| 9       | NaoDevils    | R-ZWEI-KICKERS | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:45      |        |
 | 11      |              |                | 2021-05-09 (Su) | 09:00 - 11:00    | 11:45      |        |
+
 
 ### Other appointments:
 
