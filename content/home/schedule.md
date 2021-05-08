@@ -87,6 +87,17 @@ Remark: All dates and Times are UTC+2
 
 Schedule for **Arena Dortmund**:
 
+| Game ID | Home         | Away        | Date            | Preparation time | Game start | Result |
+|---------|--------------|-------------|-----------------|------------------|------------|--------|
+| 1       | BerlinUnited | HULKs       | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:00      | 1:4    |
+| 5       | B-Human      | NaoDevils   | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:45      | 10:0   |
+| 7       | B-Human      | HTWK-Robots | 2021-05-08 (Sa) | 12:00 - 14:00    | 14:00      |        |
+| 8       | BerlinUnited | Bembelbots  | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:00      |        |
+| 10      |              |             | 2021-05-09 (Su) | 09:00 - 11:00    | 11:00      |        |
+| 12      |              |             | 2021-05-09 (Su) | 13:00 - 15:00    | 15:00      |        |
+
+Schedule for **Arena Bremen**:
+
 | Game ID | Home         | Away           | Date            | Preparation time | Game start | Result |
 |---------|--------------|----------------|-----------------|------------------|------------|--------|
 | 2       | HTWK Robots  | NaoDevils      | 2021-05-07 (Fr) | 09:00 - 11:00    | 11:45      | 4:2    |
