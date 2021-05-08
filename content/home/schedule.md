@@ -66,8 +66,8 @@ Remark: All dates and Times are UTC+2
 
 | Game | Home        | Away           |
 |------|-------------|----------------|
-| 10   | NaoDevils   | BerlinUnited   |
-| 11   | HTWK Robots | R-ZWEI-KICKERS |
+| 10   | HTWK Robots | R-ZWEI-KICKERS |
+| 11   | NaoDevils   | BerlinUnited   |
 | 12   | B-Human     | HULKs          |
 |      | Free card   | Bembelbots     |
 
