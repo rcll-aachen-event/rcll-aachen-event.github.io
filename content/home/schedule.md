@@ -104,5 +104,6 @@ Schedule for **Arena Dortmund**:
 * 2021-05-06 15:00 - Rules & Referring
 * 2021-05-06 18:00 - Team leader meeting
 * 2021-05-07 20:45 - Team leader meeting
+* 2021-05-08 18:30 - Event Photo
 * 2021-05-08 20:00 - Team leader meeting
 * 2021-05-09 16:00 - Closing Ceremony
