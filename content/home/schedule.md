@@ -77,11 +77,11 @@ Remark: All dates and Times are UTC+2
 |----------------|---------------|-------------|-------|-------------|-----------|-----------|-----------|-----------|
 | B-Human        | 8             | 5           | 18:0  |             | Free Card | 10:0      | 8:0       |           |
 | Bembelbots     | 33            | 4           | 4:1   |             | 3:0       | 0:1       | 1:0       | Free Card |
-| BerlinUnited   | 26            | 2           | 4:4   |             | 1:4       | 3:0       | 0:1       |           |
-| HTWK Robots    | 12            | 3           | 4:10  |             | 4:2       | Free Card | 0:8       |           |
+| BerlinUnited   | 26            | 2           | 4:4   |             | 1:4       | 3:0       | 0:1       |    0:8       |
+| HTWK Robots    | 12            | 5           | 14:10  |             | 4:2       | Free Card | 0:8       |    10:0    |
 | HULKs          | 29            | 5           | 5:1   |             | 4:1       | 1:0       | Free Card |           |
-| NaoDevils      | 17            | 2           | 12:14 |             | 2:4       | 0:10      | 10:0      |           |
-| R-ZWEI-KICKERS | 42            | 0           | 0:16  |             | 0:3       | 0:3       | 0:10      |           |
+| NaoDevils      | 17            | 4           | 20:14 |             | 2:4       | 0:10      | 10:0      |   8:0        |
+| R-ZWEI-KICKERS | 42            | 0           | 0:26  |             | 0:3       | 0:3       | 0:10      |  0:10      |
 
 ### Arena Schedules
 
@@ -93,7 +93,7 @@ Schedule for **Arena Dortmund**:
 | 5       | B-Human      | NaoDevils      | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:45      | 10:0   |
 | 7       | B-Human      | HTWK-Robots    | 2021-05-08 (Sa) | 12:00 - 14:00    | 14:00      | 8:0    |
 | 8       | BerlinUnited | Bembelbots     | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:00      | 0:1    |
-| 10      | HTWK Robots  | R-ZWEI-KICKERS | 2021-05-09 (Su) | 09:00 - 11:00    | 11:00      |        |
+| 10      | HTWK Robots  | R-ZWEI-KICKERS | 2021-05-09 (Su) | 09:00 - 11:00    | 11:00      | 10:0       |
 | 12      | B-Human      | HULKs          | 2021-05-09 (Su) | 13:00 - 15:00    | 15:00      |        |
 
 Schedule for **Arena Bremen**:
@@ -105,7 +105,7 @@ Schedule for **Arena Bremen**:
 | 4       | HULKs        | Bembelbots     | 2021-05-07 (Fr) | 17:00 - 19:00    | 19:00      | 1:0    |
 | 6       | BerlinUnited | R-ZWEI-KICKERS | 2021-05-08 (Sa) | 09:00 - 11:00    | 11:00      | 3:0    |
 | 9       | NaoDevils    | R-ZWEI-KICKERS | 2021-05-08 (Sa) | 15:00 - 17:00    | 17:45      | 10:0   |
-| 11      | NaoDevils    | BerlinUnited   | 2021-05-09 (Su) | 09:00 - 11:00    | 11:45      |        |
+| 11      | NaoDevils    | BerlinUnited   | 2021-05-09 (Su) | 09:00 - 11:00    | 11:45      | 8:0       |
 
 
 ### Other appointments:
