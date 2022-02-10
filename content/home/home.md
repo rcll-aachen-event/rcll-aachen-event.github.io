@@ -3,6 +3,8 @@ widget: pages
 headless: true
 weight: 10
 active: true
+design:
+  columns: 1
 ---
 Since the RoboCup German Open 2022 will once again not be happening physically due to the COVID-19 situation, we are once again planning an alternative.
 
