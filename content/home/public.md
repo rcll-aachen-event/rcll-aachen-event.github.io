@@ -1,15 +1,9 @@
 ---
 widget: pages
-widget_id: public
 headless: true
-weight: 20
+weight: 30
 title: Public Viewing
 active: true
-design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
 ---
 At this time we are planning to allow a certain number of public visitors from the 14.04. to the 17.04. live at the location with a [2G+ model](https://www.hamburg.com/residents/settle/health/15811494/covid-access-plans).
 As said the COVID-19 situation brings unpredictability, thus regulations might change.
