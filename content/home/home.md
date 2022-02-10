@@ -4,7 +4,6 @@ headless: true
 weight: 10
 active: true
 ---
-{{< figure library="true" src="intro_hulks.jpg">}}
 Since the RoboCup German Open 2022 will once again not be happening physically due to the COVID-19 situation, we are once again planning an alternative.
 
 The successfull **G**erman **O**pen **R**eplacement **E**vent from last year goes into a second round, this time here in the [Hamburg Handelskammer](https://www.hk24.de/en/servicemarken/event-management).
