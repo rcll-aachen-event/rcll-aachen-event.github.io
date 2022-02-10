@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: GORE 2021 # Website name
+title: GORE 2022 # Website name
 baseurl: 'https://gore2021.netlify.app/' # Website URL
-copyright: 'Arne Moos and Patrick Göttsch, 2021' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Arne Moos, Patrick Göttsch, Jörn Griepenburg 2022' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -74,3 +74,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

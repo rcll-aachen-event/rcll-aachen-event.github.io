@@ -12,12 +12,9 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-The following teams participate in GORE 2021:
+As we are still in the planning phase, we are still waiting for verification of participating teams. 
+Being the organizers both university teams from Hamburg will take part:
+- HULKs - SPL, Hamburg (Germany)
+- Bit-Bots - Humanoid, Hamburg (Germany)
 
-- B-Human, Bremen (Germany)
-- Bembelbots, Frankfurt (Germany)
-- BerlinUnited, Berlin (Germany)
-- HTWK Robots, Leipzig (Germany)
-- HULKs, Hamburg (Germany)
-- NaoDevils, Dortmund (Germany)
-- R-ZWEI KICKERS, Kaiserlautern (Germany)
+If you would like to participate with your team as well, send an email our way.

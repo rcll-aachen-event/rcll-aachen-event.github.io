@@ -11,6 +11,14 @@ design:
     image_darken: 0
 ---
 {{< figure library="true" src="intro_hulks.jpg">}}
-Since RoboCup 2021 will be held virtually all around the world, owing to the ongoing COVID-19situation and the Standard Platform League is taking on a new format that is designed to provide all teams an opportunity to competitively measure their skills in robot soccer within the current circumstances without any physical presence on a common competition site.
+Since the RoboCup German Open 2022 will once again not be happening physically due to the COVID-19 situation, we are once again planning an alternative.
 
-**G**erman **O**pen **R**eplacement **E**vent has been introduced to enable the League for having 5 vs 5 on-site games in local arenas in Central Europe. The team's robots travel, but the human members stay at home.
+The successfull **G**erman **O**pen **R**eplacement **E**vent from last year goes into a second round, this time here in the [Hamburg Handelskammer](https://www.hk24.de/en/servicemarken/event-management).
+
+We are not only planning 5 vs 5 SPL (Standard Platform League) games, but are also looking to organize humanoid league games.
+Due to the unpredictability, we are preparing for different scenarios ranging from a full physical championship to a hybrid/online event.
+Meaning for SPL, tha the team’s robots travel, but the human members stay at home, while doing simulated online games for the humanoid league.
+
+The whole event will, of course, be held in accordance with the current regulations advised by the RKI.
+
+The event is planned for the time frame between the 12.04. and 17.04.
