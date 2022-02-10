@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gore-event.github.io/sitemap.xml
