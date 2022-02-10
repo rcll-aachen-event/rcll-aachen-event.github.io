@@ -5,7 +5,7 @@
 
 title: GORE 2022 # Website name
 baseurl: 'https://gore-event.github.io/' # Website URL
-copyright: '© {year} Arne Moos, Patrick Göttsch, Jörn Griepenburg 2022' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Arne Moos, Patrick Göttsch, Jörn Griepenburg, Sebastian Stelter' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
