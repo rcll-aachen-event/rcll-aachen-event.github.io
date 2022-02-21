@@ -8,12 +8,15 @@ active: true
 ---
 As we are still in the planning phase, we are still waiting for verification of participating teams. 
 The teams who already confirmed, that they want to participate are:
-- HULKs - SPL, Hamburg (Germany)
-- Nao Devils - SPL, Dortmund (Germany)
-- B-Human - SPL, Bremen (Germany)
-- Berlin United NaoTH - SPL, Berlin (Germany)
-- HTWK Robots - SPL, Leipzip (Germany)
-- R2-Kickers - SPL, Kaiserslautern (Germany)
-- Bit-Bots - Humanoid, Hamburg (Germany)
+- HULKs - **SPL**, Hamburg (Germany)
+- Nao Devils - **SPL**, Dortmund (Germany)
+- B-Human - **SPL**, Bremen (Germany)
+- HTWK Robots - **SPL**, Leipzip (Germany)
+- R-ZWEI KICKERS - **SPL**, Kaiserslautern (Germany)
+- Starkit - **SPL**, Moscow (Russia)
+- Berlin United NaoTH - **SPL**, Berlin (Germany) - *hybrid*
+- SPQR - **SPL**, Rome (Italy) - *hybrid*
+- rUNSWift - **SPL**, Sydney (Australia) - *only remote*
+- Bit-Bots - **Humanoid**, Hamburg (Germany)
 
 If you would like to participate with your team as well, send an email our way.
