@@ -20,6 +20,7 @@ The teams who already confirmed, that they want to participate are:
 | Berlin United NaoTH 	|    SPL   	|     Berlin (Germany)     	|     hybrid    	|
 |         SPQR        	|    SPL   	|       Rome (Italy)       	| hybrid/remote 	|
 |       rUNSWift      	|    SPL   	|    Sydney (Australia)    	|     remote    	|
+|      RoboEireann     	|    SPL   	|    Maynooth (Ireland)    	|     remote    	|
 |       Bit-Bots      	| Humanoid 	|     Hamburg (Germany)    	|    presence   	|
 
 If you would like to participate with your team as well, send an email our way.
