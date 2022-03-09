@@ -15,7 +15,6 @@ The teams who already confirmed, that they want to participate are:
 |       B-Human       	|    SPL   	|     Bremen (Germany)     	|    presence   	|
 |     HTWK Robots     	|    SPL   	|     Leipzip (Germany)    	|    presence   	|
 |    R-ZWEI KICKERS   	|    SPL   	| Kaiserslautern (Germany) 	|    presence   	|
-|       Starkit       	|    SPL   	|      Moscow (Russia)     	|    presence   	|
 |      Bembelbots      	|    SPL   	|    Frankfurt (Germany    	| presence/hybrid	|
 | Berlin United NaoTH 	|    SPL   	|     Berlin (Germany)     	|     hybrid    	|
 |         SPQR        	|    SPL   	|       Rome (Italy)       	| hybrid/remote 	|
