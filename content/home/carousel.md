@@ -8,11 +8,17 @@ design:
   columns: 1
 
 item:
-  - title: 'SPL'
+  - title: 'RoboCup Logistics League'
     align: center
-    overlay_img: spl_hulks.jpg
-  - title: 'Humanoid'
+    overlay_img: rcll_1.png
+  - title: 'RoboCup Logistics League'
     align: center
-    overlay_img: humanoid_bit_bots.jpg
+    overlay_img: rcll_2.png
+  - title: 'RoboCup Logistics League'
+    align: center
+    overlay_img: rcll_3.png
+  - title: 'RoboCup Logistics League'
+    align: center
+    overlay_img: rcll_4.jpg
 
 ---
