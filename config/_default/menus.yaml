@@ -16,9 +16,6 @@ main:
   - name: Teams
     url: '#teams'
     weight: 40
-  - name: Junior Workshop
-    url: '#junior-workshop'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
