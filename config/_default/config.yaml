@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: GORE 2022 # Website name
-baseurl: 'https://gore-event.github.io/' # Website URL
-copyright: '© {year} Arne Moos, Patrick Göttsch, Jörn Griepenburg, Sebastian Stelter' # Footer text, e.g. '© {year} Me'
+title: RCLL Aachen 2022 # Website name
+baseurl: 'https://rcll-aachen-event.github.io/' # Website URL
+copyright: '© {year} Nicolas Limpert (forked from https://github.com/gore-event/gore-event.github.io)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
