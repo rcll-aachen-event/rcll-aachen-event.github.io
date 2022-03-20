@@ -5,6 +5,10 @@ weight: 20
 title: Public Viewing
 active: true
 ---
-At this time we are planning to allow a certain number of public visitors from the 14.04. to the 17.04. live at the location with a [3G model](https://www.hamburg.com/residents/settle/health/15811494/covid-access-plans), to not exclude any visitors, but would be happy for anyone coming to test themselves.
-As said the COVID-19 situation brings unpredictability, thus regulations might change.
-Due to this and the event still being in the planning phase, concrete information will follow and be reflected on this site.
+While the room allows plenty of space for the RCLL itself we **currently** consider it to be unavailable for public visitors considered the pandemic situation.
+
+As a result *currently* we consider the event will **not be open to the public**.
+
+However we plan to prepare live streams of the whole event to be available via YouTube.
+
+Once avaible you will find the according link right here.
