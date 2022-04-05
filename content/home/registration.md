@@ -13,11 +13,9 @@ As we're approaching closer to the actual event registration is now live and the
 
 ##### MAJOR FEES:
 
-|  Fees        	                              |  Cost  	|
-|:-------------------------------------------:|:------:	|
-|  Major Team        	                      |  €100   |
-|  Major Participant (Faculty/Staff/Student)  |  €50  	|
-|  Major Participant late registration        |  €75    |
+Thanks to the Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University, Festo Didactic and the MASCOR Institute we were able to reduce the costs of the RCLL Aachen event to a minimum which doesn't justify the previously announced registration fees anymore.
+
+Hence there will be **no registration fee**.
 
 ##### TEAM REGISTRATION: 
 
