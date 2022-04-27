@@ -74,6 +74,11 @@ Even if many of the Corona rules could be dropped before the event, we currently
 
 Overall we'd like to let participants enjoy the competition instead of worrying about their health.
 
+### Test centres available
+You can either lookup test centres close by to your particular accomodation at [testen-in-aachen.de](https://testen-in-aachen.de) or take the test centre that is close to the venue (~13 minutes walk) at the Uniklinik RWTH Aachen:
+ * [Google Maps location](https://goo.gl/maps/MLX2PCQXfyPPYWG29)
+ * [Test centre registration site](https://app.no-q.info/sanitaetshaus-koczyba-gmbh-5/checkins/)
+
 ## RCLL Aachen - 2022 Drinks and food
 
 There are some shops around the premises of WZL Aachen so we currently do not consider organizing any additional catering.
