@@ -104,3 +104,27 @@
   }
 }
 
+
+.sponsors {
+  margin-top: -20px;
+  margin-bottom: -20px;
+
+  @media (min-width: 768px) {
+    margin-top: -30px;
+    margin-bottom: -30px;
+  }
+
+  img {
+    padding: 20px;
+    max-height: 120px;
+
+    @media (min-width: 768px) {
+      padding: 30px;
+    }
+
+    @media (min-width: 1200px) {
+      max-height: 140px;
+    }
+  }
+}
+

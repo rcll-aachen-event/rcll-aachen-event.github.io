@@ -1,0 +1,40 @@
+{{/* Get image folder or default to `media/gallery/`. */}}
+{{ $folder := (.Get "folder") | default "gallery" }}
+{{ $image_folder_path := path.Join "media" $folder "*" }}
+
+{{ $class := (.Get "class") | default $folder }}
+{{ $sort_order := .Get "order" | default "asc" }}
+
+<div class="image_links {{ $class }}">
+  {{ $images := resources.Match $image_folder_path }}
+  {{ range (sort $images "Name" $sort_order) }}
+
+    {{ $image := . }}
+    {{ $filename := path.Base .Name }}
+
+    {{ $caption := "" }}
+    {{ $link := "" }}
+
+    {{ if $.Page.Params.image_links }}
+      {{ range (where (where $.Page.Params.image_links "folder" $folder) "image" $filename) }}
+        {{ $caption = .caption }}
+        {{ $link = .link }}
+      {{ end }}
+    {{ end }}
+    <a
+      href="{{ $link | default .RelPermalink }}"
+      title="{{ $caption | markdownify | safeHTMLAttr }}"
+      {{ if $link }}
+        class="image_link"
+      {{ else }}
+        disabled class="image_link image_link--disabled"
+      {{ end }}
+    >
+      <img
+        src="{{ $image.RelPermalink }}"
+        loading="lazy"
+        alt="{{ plainify $caption | default $filename }}"
+      />
+    </a>
+  {{ end }}
+</div>
