@@ -6,9 +6,9 @@ active: true
 design:
   columns: 1
 ---
-Due to the pandemic the RoboCup German Open 2022 [had to be canceled](https://robocup.de/2021/10/15/call-german-robocup-junior-2022/) once again.
-However major leagues have the opportunity to conduct local events as a substitution. Due to the expressed interest by teams in the RoboCup Logistics League the RCLL Aachen event was
-created as a per-league alternative to the RC GO 2022.
+The RoboCup German Open 2022 are conducted in a distributed manner to allow major leagues to conduct local events and compete despite the pandemic. Find an overview on the conducted events [here](https://robocup.de/go2022-en/).
+
+Due to the expressed interest by teams in the RoboCup Logistics League the RCLL Aachen 2022 event is created as a per-league local event for the RC GO 2022.
 
 The event will be held in premises belonging to the [Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University](https://www.wzl.rwth-aachen.de/go/id/sijq/?lidx=1).
 The given room size of 35m * 17m will give enough space to organize a full-scale RCLL including the full playing field and tables etc. for upto 5-6 teams and an eduroam-based
