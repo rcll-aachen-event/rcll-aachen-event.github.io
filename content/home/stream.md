@@ -18,7 +18,7 @@ design:
 <script type="text/javascript">
   new Twitch.Embed("twitch-embed", {
     width: "100%",
-    height: 680,
+    height: 720,
     channel: "rcllaachen",
     layout: "video",
     // Only needed if this page is going to be embedded on other websites
